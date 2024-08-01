@@ -69,6 +69,34 @@ AWSインフラに関する知識を深めるための学習リソースを活�
   CourseraやUdemyなどで提供されているAWSインフラ関連のコースを受講します。
   これらのポイントに注目して、AWSインフラの設定と管理に必要なスキルを身につけていくことができます。準備を進めながら、実際のプロジェクトでの経験を積んでください。
 
+  ## サーバレスのローカル環境構築（実践編）
+  - 概要図
+    ![image](https://github.com/user-attachments/assets/e11c85f2-faf1-467b-bc2a-99fa78f30f28)
+
+### 事前にやっていること：
+- WSL開発環境とHomebrew（macOS で広く利用されるパッケージマネージャーのこと）のセットアップ
+  [Homebrewとは](https://brew.sh/ja/)
+
+- AWS CLIのインストール
+```bash
+brew install awscli
+```
+- バージョン情報(2024/08/01)
+```bash
+ aws --version
+aws-cli/2.17.19 Python/3.11.9 Linux/5.15.133.1-microsoft-standard-WSL2 source/x86_64.ubuntu.22
+```
+- AWS SAM CLIのインストール
+```bash
+brew install aws-sam-cli
+```
+
+
+    
+
+    
+
+
 
 
 
