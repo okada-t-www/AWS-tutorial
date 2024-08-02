@@ -91,6 +91,26 @@ aws-cli/2.17.19 Python/3.11.9 Linux/5.15.133.1-microsoft-standard-WSL2 source/x8
 brew install aws-sam-cli
 ```
 
+↑つづきは今度↑
+
+
+
+## 8/2 今泉さん CloudTrail 触ってみて
+
+- 概要
+  AWSアカウントに対してだれがいつ何をしたかを確認することができるサービス
+- やりたいこと（8/2午後～）
+  ユーザーごとにログをフィルターして、それぞれ何をやってるか記録する
+
+  ### 手段の調査
+  ・S3＋Athena、AWS Glueクローラー
+  ![image](https://github.com/user-attachments/assets/2eeb6b64-89ac-42f7-9567-9764885bc5f4)
+
+  
+
+
+
+
 
     
 
