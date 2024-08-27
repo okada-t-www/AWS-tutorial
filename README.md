@@ -95,7 +95,7 @@ brew install aws-sam-cli
 
 
 
-## 8/2 今泉さん CloudTrail 触ってみて
+## 8/2 CloudTrail 触ってみて
 
 - 概要
   AWSアカウントに対してだれがいつ何をしたかを確認することができるサービス
